@@ -36,3 +36,61 @@
     transform: rotate(360deg);
   }
 }
+
+.div__btn{
+  width: 220px;
+  display: flex;
+  margin: 0 auto;
+}
+.lightt{
+  background:rebeccapurple;
+}
+.darkk{
+  background:red;
+
+}
+
+/* .App{
+  background: #61dafb;
+} */
+h1{
+  text-align: center;
+}
+
+
+button{
+  display: block;
+  padding: 8px 20px;
+  border-radius: 7px;
+  cursor: pointer;
+  border: none;
+  margin-left: 10px;
+  color: #000;
+  background: fixed;
+  border: 2px solid #000;
+  margin: 0 auto;
+}
+.buttoon{
+  display: block;
+  padding: 8px 20px;
+  border-radius: 7px;
+  cursor: pointer;
+  border: none;
+  margin-left: 10px;
+  color: red;
+  background: fixed;
+  border: 2px solid red;
+  margin: 0 auto;
+}
+.buttonn{
+  display: block;
+  padding: 8px 20px;
+  border-radius: 7px;
+  cursor: pointer;
+  border: none;
+  margin-left: 10px;
+  color: rebeccapurple;
+  background: fixed;
+  border: 2px solid rebeccapurple;
+  margin: 0 auto;
+}
